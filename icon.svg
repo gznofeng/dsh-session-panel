@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36" role="img" aria-label="Session panel">
+  <rect x="5" y="7.5" width="26" height="6.5" rx="2" fill="none" stroke="#2f6fd0" stroke-width="2.1"/>
+  <rect x="5" y="17.5" width="11.5" height="13" rx="2" fill="none" stroke="#2f6fd0" stroke-width="2.1"/>
+  <rect x="19.5" y="17.5" width="11.5" height="13" rx="2" fill="none" stroke="#2f6fd0" stroke-width="2.1"/>
+  <circle cx="9" cy="10.75" r="1.5" fill="#2f6fd0"/>
+  <circle cx="9" cy="21" r="1.5" fill="#2f6fd0" fill-opacity="0.5"/>
+  <circle cx="23.5" cy="21" r="1.5" fill="#2f6fd0" fill-opacity="0.5"/>
+</svg>

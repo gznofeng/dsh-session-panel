@@ -1,0 +1,23 @@
+# Dependencies — the shipped package has no runtime dependencies; react and
+# react-dom here are development installs for test/render.test.js only (it
+# skips when they are absent), and the `files` field keeps them out of the
+# published tarball. They stay out of git too.
+node_modules/
+
+# npm pack output
+*.tgz
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Logs and scratch files
+*.log
+*.tmp
+
+# Editors
+.idea/
+.vscode/
+
+# The plugin's runtime state (workspace pins) lives under
+# $DSH_HOME/plugin-data/, never in this repo.
